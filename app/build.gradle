@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.hn.farm'
+    namespace 'in.hypernation.storyscrolls'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.hn.farm"
+        applicationId "in.hypernation.storyscrolls"
         minSdk 24
         targetSdk 34
         versionCode 1
