@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/product"
+        android:enabled="true"
+        android:icon="@drawable/products"
+        android:title="Products"/>
+    <item
+        android:id="@+id/add_product"
+        android:enabled="true"
+        android:icon="@drawable/add_products"
+        android:title="Add Product"/>
+
+    <item
+        android:id="@+id/orders"
+        android:enabled="true"
+        android:icon="@drawable/orders"
+        android:title="Orders"/>
+</menu>
